@@ -1,6 +1,6 @@
 # Raspberry
-Advisor: Dr. Yongqiang Wang 
-Implemented by: Muaz Ahmad
+Advisor: Dr. Yongqiang Wang, 
+Implemented by: Muaz Ahmad.\n
 Privacy Preserving Average Concensus Algorithm in C++ 
 The code was developed for the XBEE S1 module and runs on the Raspberry PI.
 Simply connect the Xbee to the Pi using a USB adapter, or manually connect the UART pins of the XBEE to the UART GPIO of the PI
